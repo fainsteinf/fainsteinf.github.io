@@ -35,4 +35,8 @@ I have also worked on the theory behind unsupervised data-driven discovery of go
 
 I am enthusiastic about interdisciplinary research, impactful science, and education.
 
+<figure style="text-align:center;">
+  <img src="/assets/img/main_Fainstein_Facundo.jpg" alt="In the field" style="max-width:720px; width:100%; border-radius:12px;">
+  <figcaption style="opacity:.8; margin-top:.4rem;">Go someplace cool.</figcaption>
+</figure>
 
