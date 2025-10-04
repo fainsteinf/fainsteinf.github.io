@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Animal physiology and behavior
+title: Physiology and Behavior
 description: Physical limits in avian respiration.
 img: assets/img/cover_resonances.jpg
 importance: 1
