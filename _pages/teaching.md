@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
@@ -31,4 +31,6 @@ Undergraduate Teaching Assistant
 - [2018] **Experimental Physics 1 (mechanics lab)**
 - [2018] **Experimental Physics 1 (mechanics lab)**
 
-I have also been in the Tutor of Physics since 2021. I lead weekly physics consultation sessions for first-year students across all degree programs at the Facultad de Ciencias Exactas y Naturales.  
+## Tutor of Physics
+
+I have also been the Tutor of Physics since 2021. I lead weekly physics consultation sessions for first-year students across all degree programs at the Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.  
