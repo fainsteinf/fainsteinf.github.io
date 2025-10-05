@@ -3,18 +3,23 @@
     "name": "Facundo Fainstein",
     "label": "PhD Candidate in Physics",
     "email": "facu.fainstein@gmail.com",
-    "website": "https://fainsteinf.github.io",
     "location": { "city": "Buenos Aires", "countryCode": "AR" },
     "summary": "PhD Candidate in Physics."
   },
   "education": [
     {
       "institution": "Universidad de Buenos Aires",
-      "area": "Physics",
-      "studyType": "PhD",
+      "studyType": "PhD in Physics",
       "startDate": "2021",
       "endDate": "2026",
       "summary": "Advisor: Prof. Gabriel B. Mindlin."
+    }
+    {
+      "institution": "Universidad de Buenos Aires",
+      "studyType": "MSc/BSc in Physics",
+      "startDate": "2014",
+      "endDate": "2020",
+      "summary": "GPA: 9.70/10"
     }
   ],
   "work": [],
