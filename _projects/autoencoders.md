@@ -12,10 +12,13 @@ Interpretability is a central challenge in Artificial Intelligence. Why does a m
 
 Under the advice of Prof. Gabriel B. Mindlin and working with his collaborator Prof. Pablo Groisman, we explored these questions using a neural network that trains itself on a video of a physical system, constrained to maximize information compression. What does it retain? Using rigorous mathematics, we show that the network learns the flow of the underlying dynamics, preserving the topological structure of the original system {% cite fainstein2023reconstruction %}{% cite fainstein2025reconstructing %}.
 
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Fig_autoencoders.png" title="Fig 1" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3 mt-md-0">
+    <div style="max-width: 400px; margin: 0 auto;">
+      {% include figure.liquid loading="eager" path="assets/img/Fig_autoencoders.png" title="Fig 1" class="img-fluid rounded z-depth-1" %}
     </div>
+  </div>
 </div>
 <div class="caption">
     Autoencoders processing spatiotemporal data. We show how to train it to obtain phase space representations in its latent space. 
