@@ -37,4 +37,21 @@
       year: "3/2023 — 6/2023"
       description:
         - "Visiting student in Prof. Itamar Procaccia's group."
-        
+
+- title: Fellowships
+  type: time_table
+  contents:
+    - year: 2024 - 2026
+      items: 
+        - Doctoral Fellowship, CONICET, Argentina
+    - year: 2021 - 2024
+      items: 
+        - Doctoral Fellowship, FONCyT, Argentina
+    - year: 2019 - 2020
+      items: 
+        - Undergraduate Research Fellowship, Universidad de Buenos Aires, Argentina
+    - year: "1/2019 - 3/2019"
+      items: 
+        - Friends of Fulbright Scholarship, Fulbright Program, USA
+      
+      
