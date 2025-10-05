@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Physics Department, Universidad de Buenos Aires, Argentina.
+subtitle: <a href='#'>Affiliations</a>. Physics Department, Universidad de Buenos Aires, Argentina. 
 
 #profile:
  # align: right
