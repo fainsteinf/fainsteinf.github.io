@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Argentinian PhD candidate in Physics working at the [Dynamical Systems Lab](http://www.lsd.df.uba.ar/) under the advice of [Prof. Gabriel B. Mindlin](https://en.wikipedia.org/wiki/Gabriel_B._Mindlin). My research interests are broad, and encompass physics, biology and applied mathematics. With a strong physics background, I have specialized on nonlinear dynamics. I have 8+ years of experience on theoretical modelling, experimental instrumentation, and data acquisition and analysis. 
+I am an Argentinian PhD candidate in Physics at the [Dynamical Systems Lab](http://www.lsd.df.uba.ar/), working under the supervision of [Prof. Gabriel B. Mindlin](https://en.wikipedia.org/wiki/Gabriel_B._Mindlin). My research interests are broad, and encompass physics, biology and applied mathematics. With a strong physics background, I have specialized on nonlinear dynamics. I have 8+ years of experience on theoretical modelling, experimental instrumentation, and data acquisition and analysis. 
 
 Large part of my work seeks to understand how physiological functions and animal behaviors emerge from the interaction between the nervous system, the body and the environment. By analyzing the nervous systems’ output and the physics of the body, I have helped develop physical models that connect neural instructions to movement and behavior (such as voiced sounds). The impact of these works is manifold. On the one hand, they inform fundamental questions such as how brain functions, how synergistic are brain-body interactions and to what extent living organism operate near physical limits. On the other hand, they advance neural-interface technologies and high-precision interpretable neural decoders.
 
@@ -37,6 +37,6 @@ I am enthusiastic about interdisciplinary research, impactful science, and educa
 
 <figure style="text-align:center;">
   <img src="/assets/img/main_Fainstein_Facundo.jpg" alt="In the field" style="max-width:720px; width:100%;">
-  <figcaption style="opacity:.8; margin-top:.4rem;">Go someplace cool.</figcaption>
+  <figcaption style="opacity:.8; margin-top:.4rem;">Go someplace cool and do not make another documentary about pinguins.</figcaption>
 </figure>
 
