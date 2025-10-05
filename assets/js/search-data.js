@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "These are some of the research projects I have the joy to be part of.",
+          description: "Some of the research projects I have the joy of being part of. These are all scientific adventures under the advice of Gabriel B. Mindlin.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
