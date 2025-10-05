@@ -5,41 +5,20 @@
     "email": "facu.fainstein@gmail.com",
     "website": "https://fainsteinf.github.io",
     "location": { "city": "Buenos Aires", "countryCode": "AR" },
-    "summary": "Nonlinear dynamics, bioacoustics, and data-driven modeling."
+    "summary": "PhD Candidate in Physics."
   },
   "education": [
     {
       "institution": "Universidad de Buenos Aires",
       "area": "Physics",
       "studyType": "PhD",
-      "startDate": "2021-03",
-      "endDate": "",
-      "summary": "Advisor: Prof. Gabriel B. Mindlin. Dynamical Systems Lab."
+      "startDate": "2021",
+      "endDate": "2026",
+      "summary": "Advisor: Prof. Gabriel B. Mindlin."
     }
   ],
-  "work": [
-    {
-      "name": "Dynamical Systems Lab (UBA)",
-      "position": "Researcher / PhD Candidate",
-      "startDate": "2021-03",
-      "endDate": "",
-      "summary": "Physical models linking neural activity to vocal behaviour.",
-      "highlights": [
-        "Built interpretable neural decoders",
-        "Data-driven discovery of governing equations"
-      ]
-    }
-  ],
-  "skills": [
-    { "name": "Nonlinear dynamics" },
-    { "name": "Python (NumPy, SciPy, JAX)" },
-    { "name": "Signal processing / ML" },
-    { "name": "Experimental instrumentation" }
-  ],
-  "projects": [
-    { "name": "Project 1", "description": "One-line summary.", "url": "https://github.com/youruser/project1" }
-  ],
-  "publications": [
-    { "name": "Example title", "publisher": "Journal Name", "releaseDate": "2025", "url": "https://doi.org/10.xxxx/xxxxx" }
-  ]
+  "work": [],
+  "skills": [],
+  "projects": [],
+  "publications": []
 }
