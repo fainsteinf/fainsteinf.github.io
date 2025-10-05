@@ -448,7 +448,7 @@ ninja.data = [{
               window.location.href = "/projects/autoencoders/";
             },},{id: "projects-birdsong-dreams",
           title: 'Birdsong dreams',
-          description: "Birds&#39; dream song and its decoding.",
+          description: "Decoding birds’ dream songs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dreams/";
             },},{id: "projects-physics-of-birdsong",
