@@ -1,3 +1,4 @@
+
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -49,7 +50,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false
+search_enabled: true
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -630,18 +631,16 @@ jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 
-jsonresume: []
-
-# jsonresume:
-  # - basics
-  # - work
-  # - education
-  # - publications
-  # - projects
-  # - volunteer
-  # - awards
-  # - certificates
-  # - skills
-  # - languages
-  # - interests
-  # - references
+jsonresume:
+  - basics
+  - work
+  - education
+  - publications
+  - projects
+  - volunteer
+  - awards
+  - certificates
+  - skills
+  - languages
+  - interests
+  - references
