@@ -5,6 +5,7 @@ description: Decoding birds’ dream songs
 img: assets/img/cover_dreams.png 
 importance: 3
 category: Physics of Life
+related_publications: true
 ---
 Sleep is an essential feature of animal life and a period in which brains do not stop. During sleep, neural networks display replay activity: brain structures reactivate with patterns similar to those observed during waking behavior. While there is ample evidence that this activity plays an important role in memory consolidation, its specific role in establishing and consolidating motor mechanisms is not clear. A fundamental step to its understanding will come with a long-history desire: an interpretable replay activity decoder. 
 
