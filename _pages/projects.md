@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: These are some of the research projects I have the joy to be part of. 
+description: Some of the research projects I have the joy of being part of. These are all scientific adventures under the advice of Gabriel B. Mindlin. 
 nav: true
 nav_order: 3
 display_categories: [Physics of Life, Machine Learning]
