@@ -2,7 +2,7 @@
 layout: page
 title: Physics of Birdsong
 description: From neural instructions to sound. 
-img: assets/img/cover_song.png
+img: assets/img/cover_song.png 
 importance: 2
 category: Physics of Life
 related_publications: false
