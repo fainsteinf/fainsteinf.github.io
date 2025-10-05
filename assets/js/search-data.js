@@ -416,12 +416,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-physics-of-birdsong",
-          title: 'Physics of Birdsong',
-          description: "From neural instructions to sound.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
+          section: "News",},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
@@ -456,6 +451,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-physics-of-birdsong",
+          title: 'Physics of Birdsong',
+          description: "From neural instructions to sound.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/physics_song/";
             },},{id: "projects-physics-of-behavior",
           title: 'Physics of Behavior',
           description: "Resonances in avian respiration.",
