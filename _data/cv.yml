@@ -3,10 +3,14 @@
   contents:
     - name: Full Name
       value: Facundo Fainstein
-    - name: Date and place of birth
-      value: 14 April 1996, Paris, France
+    - name: Date of birth
+      value: 14 April 1996
+    - name: Place of birth
+      value: Paris, France
     - name: Citizenship
       value: Argentina
+    - name: Contact
+      value: "facu.fainstein@gmail.com"
     - name: Languages
       value: Spanish (native), English (fluent), Italian (fluent), German (basic), French (basic)
 
@@ -17,7 +21,7 @@
       institution: Universidad de Buenos Aires
       year: 2021–2026
       description:
-        - Advised by Gabriel B. Mindlin
+        - Advised by Prof. Gabriel B. Mindlin
 
     - title: MSc/BSc in Physics
       institution: Universidad de Buenos Aires
@@ -30,7 +34,7 @@
   contents:
     - title: Visiting PhD student
       institution: Weizmann Institute of Science
-      year: "March 2023 — June 2023"
+      year: "3/2023 — 6/2023"
       description:
         - "Visiting student in Prof. Itamar Procaccia's group."
         
