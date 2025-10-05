@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Physiology and Behavior
-description: Physical limits in avian respiration.
+title: Physics of Behavior
+description: Resonances in avian respiration.
 img: assets/img/cover_resonances.jpg
 importance: 1
 category: Physics of Life
@@ -23,9 +23,11 @@ During my PhD, under the advice of Prof. Gabriel B. Mindlin, I investigated avia
 Combining physiological recordings with a nonlinear model, we found that birds breathe and sing at resonances of their respiratory biomechanics{% cite fainstein2021birds %}{% cite fainstein2025birds %}. These resonances enable an efficient translation of motor instructions into the air-pressure responsible for lung ventilation. Our results reveal an intimate relationship between the dynamics of neural motor circuits and the physical properties of the body and the environment, and show that optimization strategies can be shared across behavioral states. Additionally, this work informs on the interpretable decoding of neural signals into physiological variables, a key step for successful neural-interface technologies.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Fig_resonances_2.png" title="Fig 2" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3 mt-md-0">
+    <div style="max-width: 400px; margin: 0 auto;">
+      {% include figure.liquid loading="eager" path="assets/img/Fig_resonances_2.png" title="Fig 2" class="img-fluid rounded z-depth-1" %}
     </div>
+  </div>
 </div>
 <div class="caption">
     Birds breathe and sing at resonances of the respiratory biomechanics. 
