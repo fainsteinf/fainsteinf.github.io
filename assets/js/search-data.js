@@ -456,9 +456,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-physiology-and-behavior",
-          title: 'Physiology and Behavior',
-          description: "Physical limits in avian respiration.",
+            },},{id: "projects-physics-of-behavior",
+          title: 'Physics of Behavior',
+          description: "Resonances in avian respiration.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/resonances/";
             },},{
