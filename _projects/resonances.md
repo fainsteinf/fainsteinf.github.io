@@ -2,7 +2,7 @@
 layout: page
 title: Physics of Behavior
 description: Resonances in avian respiration.
-img: assets/img/cover_resonances.jpg
+img: assets/img/cover_resonances.png
 importance: 1
 category: Physics of Life
 related_publications: true
