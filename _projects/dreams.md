@@ -2,7 +2,7 @@
 layout: page
 title: Birdsong dreams
 description: Decoding birds’ dream songs
-img: assets/img/cover_dreams.png
+img: assets/img/cover_dreams.png 
 importance: 3
 category: Physics of Life
 ---
