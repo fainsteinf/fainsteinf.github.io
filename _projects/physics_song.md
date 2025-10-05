@@ -5,7 +5,7 @@ description: From neural instructions to sound.
 img: assets/img/cover_song_final.png
 importance: 2
 category: Physics of Life
-related_publications: true
+related_publications: false
 ---
 
 Song production in oscine birds is a complex learned behavior that arises from the interaction between the nervous system and peripheral devices. How the acoustical properties of the sound emerge from the delicate and fast control of several muscles in the syrinx (birds' vocal organ) and the respiratory system is not completely understood. 
