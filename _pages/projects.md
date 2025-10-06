@@ -2,12 +2,15 @@
 layout: page
 title: projects
 permalink: /projects/
-description: "Selected PhD projects, directed by Prof. Gabriel B. Mindlin at the <a href=\"http://www.lsd.df.uba.ar/\" target=\"_blank\" rel=\"noopener\">Dynamical Systems Lab</a>, Physics Department, Universidad de Buenos Aires."
+description: 
 nav: true
 nav_order: 3
 display_categories: [Physics of Life, Machine Learning]
 horizontal: false
 ---
+
+Selected PhD projects, directed by Prof. Gabriel B. Mindlin at the
+[Dynamical Systems Lab](http://www.lsd.df.uba.ar/), Physics Department, Universidad de Buenos Aires.
 
 <!-- pages/projects.md -->
 <div class="projects">
