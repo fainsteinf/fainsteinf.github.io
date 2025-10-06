@@ -37,6 +37,6 @@ I am enthusiastic about interdisciplinary research, impactful science, and educa
 
 <figure style="text-align:center;">
   <img src="/assets/img/main_Fainstein_Facundo.jpg" alt="In the field" style="max-width:720px; width:100%;">
-  <figcaption style="opacity:.8; margin-top:.4rem;">Go someplace cool and do not make another documentary about pinguins.</figcaption>
+  <figcaption style="opacity:.8; margin-top:.4rem;">Paraphrasing Herzog: go someplace cool and don’t make another documentary about penguins.</figcaption>
 </figure>
 
