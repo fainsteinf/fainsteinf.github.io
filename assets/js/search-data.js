@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Some of the research projects I have the joy of being part of. These are all scientific adventures under the advice of Gabriel B. Mindlin.",
+          description: "Selected PhD projects, directed by Prof. Gabriel B. Mindlin at the [Dynamical Systems Lab](http://www.lsd.df.uba.ar/), Physics Department, Universidad de Buenos Aires.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
