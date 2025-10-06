@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some of the research projects I have the joy of being part of. These are all scientific adventures under the advice of Gabriel B. Mindlin. 
+description: Selected PhD projects, directed by Prof. Gabriel B. Mindlin at the [Dynamical Systems Lab](http://www.lsd.df.uba.ar/), Physics Department, Universidad de Buenos Aires.
 nav: true
 nav_order: 3
 display_categories: [Physics of Life, Machine Learning]
