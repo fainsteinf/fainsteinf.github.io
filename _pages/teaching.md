@@ -12,7 +12,7 @@ I have taught physics as a teaching assistant at Universidad de Buenos Aires sin
 ## Courses 
 
 Head Teaching Assistant
-- [2025] **Nonlinear dynamics and partial differential equations**
+- [2025] **Dynamical systems and partial differential equations**
 - [2025] **Experimental Physics 3 (electronics lab)**
 
 Graduate Teaching Assistant
